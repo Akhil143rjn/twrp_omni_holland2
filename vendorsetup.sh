@@ -38,7 +38,7 @@ export OF_FIX_OTA_UPDATE_MANUAL_FLASH_ERROR=1
 export FOX_R11=1
 export FOX_ADVANCED_SECURITY=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
-export OF_QUICK_BACKUP_LIST="/boot;/recovery;/data;/vendor;/system_image;/vendor_image;"
+export OF_QUICK_BACKUP_LIST="/boot;/recovery;/data;/system;/vendor;/system_image;/vendor_image;"
 export OF_MAINTAINER="Akhil.R"
 export OF_FLASHLIGHT_ENABLE=0
 
